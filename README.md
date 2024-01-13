@@ -7,7 +7,8 @@ This application uses the Star Wars API (https://swapi.dev/) to retrieve informa
 
 # Installation
 Installation
-Before setting up and running this application locally, it's recommended to familiarize yourself with the React Native environment setup. Please refer to the official React Native documentation on environment setup for detailed instructions: React Native - Environment Setup.
+Before setting up and running this application locally, it's recommended to familiarize yourself with the React Native environment setup. Please refer to the official React Native documentation on environment setup for detailed instructions: [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup).
+.
 
 Follow these steps to run the application:
 
